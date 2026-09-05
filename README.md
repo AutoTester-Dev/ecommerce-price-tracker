@@ -21,4 +21,9 @@ Follow these instructions to set up and run the project locally on your machine.
 Make sure you have Python installed. You will also need the following libraries:
 
 ```bash
-pip install requests beautifulsoup4 pandas openpyxl
+pip install requests beautifulsoup4 pandas openpyxl```
+
+### How to Run
+```bash
+python ecommerce_scraper.py```
+
